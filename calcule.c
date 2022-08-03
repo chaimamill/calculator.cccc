@@ -18,7 +18,7 @@ else
 {
 printf("entrez Nombre 2:");
 scanf("%d", &N2);
-}
+
     
     switch (operateur)
     {
@@ -47,6 +47,7 @@ scanf("%d", &N2);
         printf("the program is stopped");
         break;
     }
+}
         return 0;
 }
 
